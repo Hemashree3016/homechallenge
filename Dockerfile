@@ -1,4 +1,3 @@
-root@ip-172-31-0-74:~/helloworld/homechallenge# cat Dockerfile
 FROM nginx:latest
 
 # Copy the "Hello World" HTML file to the Nginx default document root
